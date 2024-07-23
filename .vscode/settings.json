@@ -1,3 +1,6 @@
 {
-    "python.pythonPath": "/Users/michaelmccabe/.local/share/virtualenvs/handwriting-recognition-11MHVV4T/bin/python"
+    "python.pythonPath": "/Users/michaelmccabe/.local/share/virtualenvs/handwriting-recognition-11MHVV4T/bin/python",
+    "cSpell.words": [
+        "EMNIST"
+    ]
 }
