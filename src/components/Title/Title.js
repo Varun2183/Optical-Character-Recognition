@@ -17,7 +17,7 @@ class Title extends Component {
 			<div className="title">
 				<div className="main-title card-panel blue lighten-5 center">
 					<h3 className="center"><b>Optical Character Recognition</b></h3>
-					<h5 className="center">A optical character recognition web application, using custom-trained machine learning models</h5>
+					<h5 className="center">A optical character recognising web application, using custom-trained machine learning models</h5>
 					{/* <div className="github-repo center">
 						<img src={gitIcon} alt="" />
 						<a className="github-link" href="https://github.com/MikeM711/Deep-Learning-Handwriting-Recognition"
