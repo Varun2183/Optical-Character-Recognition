@@ -24,7 +24,6 @@ The [Jupyter Notebook](https://github.com/MikeM711/Deep-Learning-Handwriting-Rec
 - "Broken" and "messy" letters can be detected with pretty good accuracy
 - React as the frontend
 
-Website: [Live Heroku App](https://handwriting-recognition-py-js.herokuapp.com/)
 
 <img width=600px src="https://raw.githubusercontent.com/MikeM711/Deep-Learning-Handwriting-Recognition/master/data/screenshot.png"/>
 
